@@ -1,0 +1,4 @@
+Designing Data Products (ref: Forbes)
+Use Data to generate new data to produce actionable outcome.
+
+
