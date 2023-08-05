@@ -1,0 +1,68 @@
+1
+Build UX, front end
+
+d
+an t
+X
+n
+U ro
+F nd
+E
+
+Ch
+at
+
+gp
+t
+
+Expert in ChatGPT development - prompt,
+function calling.
+
+1
+
+Set up API, inference layer
+Do automation
+
+Ability to set up cloud , security, networking
+to support multiple customers
+
+Dataknobs
+
+LLM, NLP
+& ML
+
+1
+
+API , SWE
+middle tier
+
+Should also gain domain knowledge
+
+Resource & skill
+set
+
+Clo
+Se ud &
+cu
+Sk rity
+ills
+
+B
+rD
+o
+ct
+Ve
+
+2
+
+Langchain, NLP knowledge to process
+data
+
+2
+
+Ability to create index, embeddings
+Debug NLP Model
+
+1
+
+

@@ -1,0 +1,70 @@
+Knobs to
+Augment &
+Transform Data
+KREATE
+
+Dataknobs
+
+Augment and Transform Datasets
+●
+●
+●
+●
+●
+●
+
+Handle class imbalance
+Make data complete
+compress data to learn optimal policy
+Transform data from one domain to another domain
+Generalize data to manage privacy
+Suppress sensitive information.
+
+Knobs : Use knobs to define properties of data.
+Dataknobs
+
+Handle Class Imbalance
+Handle class imbalance
+
+Sampling methods
+
+Data pre processing
+methods
+
+Custom Learning
+
+Prediction pre
+processing
+
+Over sampling
+& Under sampling
+
+Active Learning
+
+Metrics,
+Learning for special
+cost and loss
+function
+
+Threshold based
+
+Weak supervision &
+synthetic data
+
+Dataknobs
+
+Type of Datasets
+●
+●
+●
+●
+
+Text dataset
+Image datasets
+Structured datasets
+Time series datasets
+
+Knobs : Use knobs to define properties of data.
+Dataknobs
+
+
