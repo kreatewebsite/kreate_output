@@ -1,0 +1,81 @@
+AI in Banks
+
+Dataknob
+s
+
+AI Use Cases in Banks
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Automate customer service tasks using chatbot
+Customer Feedback collection , classification and routing of complaints
+Improve Risk Management
+Document processing e.g. Loan application
+Fraud detection
+Algorithmic trading
+Collection process - whom to call and follow up
+Stock price movement
+Earnings call analysis generation
+Audit improvement
+Portfolio Planning and management
+
+Dataknob
+s
+
+AI for building dataset
+●
+●
+●
+●
+
+Remove PI
+Augment dataset and build gold dataset
+Transform dataset from one form to other
+Create synthetic dataset
+
+Dataknob
+s
+
+Gen AI Use Cases in Banks
+●
+●
+●
+●
+
+Generation of dataset for AI
+Augmentation of dataset for AI
+Analysis generation from document e.g. Earning call analysis generation
+NLP to Report generation (NLP to SQL generation)
+
+Dataknob
+s
+
+AI Investment Areas
+●
+●
+●
+●
+●
+●
+
+Portfolio Monitoring
+Screening Investment Areas
+Evaluating Risks
+Identify High Value Use Cases
+Use AI For Scenario Analysis Under Specific Condition
+Which Common Non Financial Asset Can Be Tapped
+
+AI and generative AI has the potential to revolutionize the investment industry by automating tasks, improving decisionmaking, and reducing risk
+Dataknob
+s
+
+

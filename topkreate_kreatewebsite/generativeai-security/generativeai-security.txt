@@ -1,0 +1,145 @@
+Generative AI in Cyber security
+1. Creating synthetic data for training and testing AI models. This can help to improve the
+accuracy and performance of AI models for tasks such as malware detection and intrusion prevention.
+2. Generating realistic phishing emails and other social engineering attacks. This can help
+organizations to train their employees to identify and avoid these attacks.
+3. Automating the analysis of security logs and other data. This can help to free up security
+analysts to focus on more high-value tasks.
+4. Discovering new security vulnerabilities. Generative AI can be used to analyze large amounts of
+code and data to identify potential vulnerabilities that may not be apparent to human analysts.
+5. Generating new security controls. Generative AI can be used to design new security controls that
+are more effective at preventing and detecting attacks.
+
+Dataknob
+s
+
+AI in cyber security
+A cyber AI platform is embedded AI within a software that works around the clock to identify, isolate and
+address potential vulnerabilities. It focus on applying intelligence into
+●
+●
+●
+
+Prevention
+Detection
+Response
+
+It should be able to detect rare and previously unseen. Provide notification, visualization.
+It should learn from previous attacks and use GenAI to simulate new attacks/data. Using this it can detect
+new threats.
+Advance AI security system will also be able to respond to new
+
+Dataknob
+s
+
+Generative AI in Data Protection - Examples
+1. Data anonymization: Generative AI can be used to create synthetic data that is similar to real-world
+data, but does not contain any personally identifiable information (PII). This data can then be used for
+training and testing AI models without the risk of exposing PII.
+2. Data encryption: Generative AI can be used to create encryption keys that are more secure and
+difficult to crack. This can help to protect data from unauthorized access.
+3. Data obfuscation: Generative AI can be used to obfuscate data, making it more difficult to
+understand or interpret. This can help to protect data from unauthorized access or use.
+4. Data watermarking: Generative AI can be used to watermark data, embedding a unique identifier
+into the data that can be used to track the data and identify its source. This can help to protect data
+from unauthorized use or distribution.
+5. Data privacy policies: Generative AI can be used to generate data privacy policies that are more
+comprehensive and user-friendly. This can help organizations to better protect the privacy of their
+users' data.
+
+Dataknob
+s
+
+Data Sources - AI for Security
+1.
+2.
+3.
+4.
+5.
+
+Network traffic data: Understand pattern and identify anomalies.
+Log data: Identify anomalies that indicate a security breach
+Malware samples: Identify malware features.
+Vulnerability data: Identify security vulnerabilities and prioritize.
+Threat intelligence: Track emerging threats and identify potential risks
+
+Dataknob
+s
+
+Bots - AI for Security
+1. Incident response: Once incident occurs, notify stakeholders and answer
+2. Education bot: Educate employees and stakeholders on security
+3. Emerging threats: Read public sources and news about security. Answer and educate new threats,
+evolving threats and answer mitigation question.
+4. Threat intelligence: Read vulnerability reports,
+5. Vulnerability scanning: Scan network, Scan system of vulnerabilities.
+
+Dataknob
+s
+
+Tools - AI for Security
+1. IBM Security QRadar with Watson: Automate task related to security
+2. Palo Alto Networks Cortext XDR: Identify threats
+3. Cisco SecureX with Watson: AI to identify and respond to threats
+
+Dataknob
+s
+
+Generative AI in Cyber security - Examples
+1.
+2.
+3.
+
+Microsoft Security Copilot: This service uses generative AI to help security analysts identify and respond to
+security threats.
+Darktrace: uses generative AI to detect and respond to cyber threats in real time.
+Google Cloud's Chronicle: This platform uses generative AI to analyze security logs and data to identify potential
+threats.
+
+Dataknob
+s
+
+Security ProgRAM - E2E
+● Prevention
+● Detection
+● Response
+
+Dataknob
+s
+
+Security ProgRAM - E2E Landscape
+Area
+Cloud
+On-prem
+Email
+IoT
+Ransomware prevention
+
+Dataknob
+s
+
+As companies move their workload to cloud, they need ability to move
+their corporate network into cloud.
+They need integration with Active Directory, Google Workspace
+
+Dataknob
+s
+
+Monitoring of Network
+Ingest and Analyze Networking & Endpoint Logs
+
+Dataknob
+s
+
+Security and compliance Assessment
+Do security and compliant assessment
+Identify areas to strengthen
+Determine which policy template to apply to accelerate
+
+Dataknob
+s
+
+Dataknob
+s
+
+

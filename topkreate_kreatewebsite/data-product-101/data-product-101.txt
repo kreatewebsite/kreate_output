@@ -1,0 +1,208 @@
+Data Product
+Data product is self contained “data container” that
+directly solves a business problem or is monetized
+(Forbes).
+● Data Products facilitates end goals thru use of data.
+● Fundamentally - bring product thinking to data. Focus on how same data
+is used in multiple use cases.
+Example - Linkedin endorsement feature
+
+Dataknobs
+
+and Task
+
+User Name
+
+Data
+
++
+
+USER
+
++
+
+User Data
+
+Task &
+Decision
+
+User Characteristics
+
+is a/an
+
+Who needs to do task A
+
+User-Task
+
+Insight/Decision
+
+Data to insight/decision
+
+Data Product - Experiment and Execution
+Data products generally require validation both of whether
+the algorithm works, and of whether users like it. As a result,
+builders of data products face an inherent tension between
+how much to invest in the R&D upfront and how quickly to
+get the application out to validate that it solves a core need.
+
+Harvard business Review
+
+Dataknobs
+
+Designing Data Products (ref: Forbes)
+Use Data to generate new data to produce actionable outcome.
+Industry Example - Search, Recommendation, Linkedin endorsement, Facebook
+Personal Example - Audience intelligence, Earning call, Gold Datasets
+
+Dataknobs
+
+Software Product vs Data Product
+Software Product
+
+Data Product
+
+Desired outcomes are achieved by software
+
+Desired outcome is achieved by data
+
+Focus on software life cycle
+
+Focus on data life cycle
+
+Focus on how software capabilities are used by
+multiple customers
+
+Focus on how data is used in multiple use
+cases
+
+Team deliver new capabilities by writing code
+Team deliver new capabilities by enriching data
+
+Dataknobs
+
+Data knobs approach for Data Product
+IMPACT
+Generate
+Dataset
+Data Engineering
+
+Activiti
+es
+
+Web scrape
+
+AI
+Generative AI
+
+KREATE Data
+
+KREATE App
+
+AB Experiment
+
+Data for AI
+
+Insight for User
+
+Validate what works
+
+Generate
+Websites &
+apps
+Summarize data
+Present data
+
+Distribute thru web
+app
+Mobile apps
+
+AB Experiment
+AB test
+
+ML Experiment
+
+Work in customer context
+& have quantifiable
+impact for selected
+customers
+
+Privacy preserving
+
+Dataknobs
+
+TIME
+
+Kreate Data
+Product
+Evolve from website to Bot
+
+NEW
+Solution
+Include
+1.
+
+Gold
+dataset
+
+2.
+
+App for
+sharing
+insight
+Chatbot
+
+3.
+
+Build higher level data concepts from raw data
+Model 1
+
+Concept
+
+Model 2
+
+GBs
+
+Feature Set
+Features
+
+Full data
+
+Dataknobs
+
+Model N
+
+Model 3
+
+Concept
+Feature Set
+
+TB
+Features
+PBs
+
+Full data
+
+Build Gold Data set
+Create Data
+
+Privacy preserving
+
+Collect dataset from enterprise
+
+anonymize
+
+Web scrape, Third party
+
+Apply privacy preserving methods
+
+Augment,
+Transform data
+Generative AI
+
+Dataknobs
+
+Compress data
+Compress data in such a manner that RL
+can still learn optimal policies.
+
+

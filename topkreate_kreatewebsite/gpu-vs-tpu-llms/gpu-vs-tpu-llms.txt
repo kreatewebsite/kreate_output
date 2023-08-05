@@ -1,0 +1,196 @@
+GPU
+
+Dataknob
+s
+
+GPU and TPU
+GPUs (Graphics Processing Units) and TPUs (Tensor Processing Units) are both specialized processors that can be used
+to accelerate machine learning workloads. However, they have different strengths and weaknesses, and are suited for
+different tasks.
+GPUs are more general-purpose processors than TPUs. They are designed to handle a wide variety of tasks, including
+graphics processing, video processing, and machine learning. GPUs have a large number of cores, which allows them to
+parallelize tasks very effectively. This makes them well-suited for tasks that can be broken down into a large number of
+independent subtasks.
+TPUs are specifically designed for machine learning tasks. They have a more streamlined architecture than GPUs, which
+makes them more efficient at performing matrix multiplication and other tensor operations. This makes them well-suited for
+tasks such as training and inference of neural networks.
+
+Dataknob
+s
+
+Large Language Models and GPU/TPU
+Machine Learning workload especially large language model, generative AI require
+GPU or TPU
+● Training
+● Inference
+● Development
+
+Dataknob
+s
+
+GPUs for LLM Inference
+Here are a few factors to consider when determining how much GPU you need for inference on a large language model:
+● Model size - Larger models with more parameters will require more GPU memory and compute power for inference.
+Models like GPT-3 and BERT can easily be hundreds of gigabytes to terabytes in size.
+● Batch size - Running inference on multiple inputs at once (a batch) makes GPU utilization more efficient. Larger batch
+sizes require more GPU memory.
+● Precision - Using lower precision like FP16 or INT8 can reduce memory usage and improve throughput compared to
+FP32, but may reduce accuracy.
+● GPU memory - For inference the model must fit entirely within GPU memory, so the GPU needs enough memory to
+load the full model and batches of inputs. At least 8-16GB is recommended.
+● GPU compute - More powerful GPUs with higher core counts will perform inference faster. Models will scale across
+multiple GPUs. High-end consumer cards like RTX 3090 or Quadro RTX 8000 may be required for optimal throughput.
+● Framework optimizations - Using optimized frameworks like TensorRT or optimizations in PyTorch/TensorFlow can
+improve throughput and reduce memory usage.
+So in summary, for large models you'll generally want a high-memory (16GB+), modern, high-end GPU like an RTX 3090 or
+Quadro RTX. Using multiple GPUs, batching, and framework optimizations can further improve performance. The optimal
+setup depends on your specific model and use case. Start with benchmarks on available hardware and scale up accordingly.
+
+Dataknob
+s
+
+GPU for LLMs Fine tuning
+Training large language models (LLMs) requires significantly more GPU resources compared to inference. Here are some key
+factors to consider:
+● Model size - Bigger models with more parameters require more GPU memory. Models over 1 billion parameters are
+common now.
+● Batch size - Larger batch sizes are crucial for good training performance and efficiency. Typical batch sizes range from
+256 up to 4096 or more. This requires large GPU memory.
+● Data parallelism - Training scales across multiple GPUs/nodes by splitting the batch. More GPUs allow larger batches and
+faster training.
+● Precision - FP16 or mixed precision can reduce memory usage over FP32, but may affect model quality.
+● GPU memory - For training, the model, optimizer states, and a large batch must fit into GPU memory. At least 32GB per
+GPU is recommended, with 48GB or more being ideal.
+● GPU compute - High compute power allows faster training iterations to reduce overall training time. High-end chips like
+A100 or H100 accelerate training.
+● Framework optimizations - Efficient frameworks like PyTorch, TensorFlow, and optimizations like model parallelism can
+help.
+In summary, training LLMs requires multiple high-end GPUs. For example, Anthropic used 128 Nvidia A100 GPUs (each with
+40GB+ memory) to train Claude. With smaller models and optimizations, you may be able to train on less GPUs, but expect to
+need at minimum 4-8 GPUs with at least 32GB memory each for decent training times
+Dataknob
+s
+
+AWS NVIDIA GPU
+Amazon EC2 P3 - 8 GPU, Tesla V100
+Amazon EC2 P4 - 40 GPU, Tesla A100
+Amazon EC2 G3 - 4 GPU, M60
+Amazon EC2 G4 - 4 GPU, T4
+Amazon EC2 G5 - 8 GPU, A10G
+
+Dataknob
+s
+
+AWS GPU Powered Services
+Amazon SageMaker
+AWS Elastic Graphic Service
+AWS DeepRacer - Use RL
+
+Dataknob
+s
+
+Azure NVIDIA GPU
+NV Series VM - Tesla M60
+NVv3 Series - T4 GPU
+NCasT4_v3-series - A10 Tesnor
+NVadsA10 v5Series - AMD Radeon PRO V620, AMD EPYC 7763
+
+Dataknob
+s
+
+Azure Nvidia GPU accelerate service
+Azure Machine Learning
+Azure Data Bricks
+Azure Streaming Analytics
+
+Dataknob
+s
+
+GCP NVIDIA GPU
+N1 Standard NV - Tesla K80 GPU
+A2 Standard NV - A100 Tensor Core GPU
+G2-standard-NV - T4 GPU
+
+Dataknob
+s
+
+Snowflake LLM container Service
+Snowflake’s Snowpark Container Service (SCS) offers the ability to containerize LLMs; through
+Snowpark, Snowflake will offer Nvidia’s GPUs and NeMO, Nvidia’s “end-to-end, cloud native
+enterprise framework to build, customize, and deploy generative AI models.
+
+Dataknob
+s
+
+Google Colab GPU
+Tesla K80 - Free with Colab. It has 12GB memory and 2496 CUDA Cores
+Tesla T4 - Paid Colab. 16 GB of memory and 2560 CUDA cores\
+Tesla V100 GPU - 32 GB of memory, 5120 cores
+
+Dataknob
+s
+
+GPU vs TPU
+GPUs:
+
+TPU : Higher low-precision performance:
+
+GPU like the NVIDIA V100 have maximum
+single-precision (FP32) performance of over
+100 teraflops, compared to about 30-60
+teraflops for current-gen TPUs. This means
+GPUs can train single-precision models faster,
+especially those with a lot of tensor operations
+that don't quantize well to lower precisions
+
+TPUs outperform GPUs for 8-bit integer
+ops and other lower-precision math, with
+up to 500-1000 teraflops on newer TPU
+models. This enables faster training of
+highly quantized models like large
+language models
+
+GPUs currently have some maximum performance benefits, TPUs are far superior for
+high-throughput low-precision computation and also have advantages for extremely
+large scale.
+Dataknob
+s
+
+GPU vs TPU
+GPUs has Larger memory capacity:
+
+TensorStream architecture:
+
+High-end GPUs typically have 16-32 gigabytes of
+onboard memory, compared to about 8-16
+gigabytes for TPUs. This larger memory allows
+GPUs to train models with huge numbers of highdimensional tensors in FP32 precision without
+swapping to host memory.
+
+TPUs have a customized data-parallel
+architecture called TensorStream that is
+optimized specifically for ML. It minimizes the
+performance hit from communication between
+cores, enabling almost linear performance scaling
+across thousands of cores. Scaling GPUs to that
+size requires more complex model parallelism
+due to limitations of data parallelism.
+
+Dataknob
+s
+
+Software Stack
+Mature software stack: Frameworks like
+TensorFlow, PyTorch and MXNet all have
+GPU support and provide tools to facilitate
+multi-GPU and distributed training.
+
+Dataknob
+s
+
+The software tooling to leverage TPUs,
+especially for non-TensorFlow frameworks,
+is not as mature which can impact
+performance.
+
+
