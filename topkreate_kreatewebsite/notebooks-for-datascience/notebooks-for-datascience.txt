@@ -1,7 +1,6 @@
 Notebooks
 
-Dataknob
-s
+Dataknobs
 
 Why Use Notebooks
 ●
@@ -18,8 +17,7 @@ Reproducibility
 Collaboration
 Run code directly in browser
 
-Dataknob
-s
+Dataknobs
 
 How To Evaluate Notebooks
 ●
@@ -40,8 +38,7 @@ Does output will be used for analysis or you want to include notebook in DAGs
 in airflow etc
 ● Where it will be deployed
 
-Dataknob
-s
+Dataknobs
 
 Phases - Notebook Usage
 ● Exploratory Data Analysis
@@ -52,8 +49,7 @@ Evolving
 ● Debugging Code in Production
 ● Notebook on model cluster
 
-Dataknob
-s
+Dataknobs
 
 Google Colab
 Google Colab is a free cloud-based Jupyter notebook environment that allows you to write and execute Python code. It has
@@ -74,13 +70,11 @@ Easy setup: Google Colab requires no setup, so you can start coding right away.
 Wide range of libraries: Google Colab supports a wide range of Python libraries, including TensorFlow, PyTorch, and
 scikit-learn.
 
-Dataknob
-s
+Dataknobs
 
 GCP Vertex AI
 
-Dataknob
-s
+Dataknobs
 
 Azure Machine Learning
 ●
@@ -93,8 +87,7 @@ to build and deploy machine learning models.
 Azure Databricks notebooks are a powerful tool for big data processing and analysis. They are based on the
 Apache Spark platform and provide a wide range of features for data wrangling, machine learning, and visualization.
 
-Dataknob
-s
+Dataknobs
 
 AWS Notebooks
 ●
@@ -115,14 +108,12 @@ variety of notebook types, including Jupyter notebooks, RStudio notebooks, and S
 Studio is a good option for data scientists and machine learning engineers who want a comprehensive environment
 for developing, testing, and deploying machine learning models.
 
-Dataknob
-s
+Dataknobs
 
 Enterprise Feature
 Deployment on prem, enterprise instance
 
-Dataknob
-s
+Dataknobs
 
 SaaS Model for Notebooks
 Connect to Data
@@ -131,8 +122,7 @@ Enforce permission with ease
 Secure connection with data
 Audit Logging, Version control
 
-Dataknob
-s
+Dataknobs
 
 Disadvantages
 Things are hidden behind Data Scientist Desk in notebook
@@ -141,7 +131,6 @@ It is important that work done in notebook or insight generated from Notebooks
 are included in acknowledgement system.
 See - ABExperiment.com and how it achieves it
 
-Dataknob
-s
+Dataknobs
 
 

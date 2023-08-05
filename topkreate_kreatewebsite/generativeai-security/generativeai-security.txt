@@ -10,8 +10,7 @@ code and data to identify potential vulnerabilities that may not be apparent to 
 5. Generating new security controls. Generative AI can be used to design new security controls that
 are more effective at preventing and detecting attacks.
 
-Dataknob
-s
+Dataknobs
 
 AI in cyber security
 A cyber AI platform is embedded AI within a software that works around the clock to identify, isolate and
@@ -29,8 +28,7 @@ It should learn from previous attacks and use GenAI to simulate new attacks/data
 new threats.
 Advance AI security system will also be able to respond to new
 
-Dataknob
-s
+Dataknobs
 
 Generative AI in Data Protection - Examples
 1. Data anonymization: Generative AI can be used to create synthetic data that is similar to real-world
@@ -47,8 +45,7 @@ from unauthorized use or distribution.
 comprehensive and user-friendly. This can help organizations to better protect the privacy of their
 users' data.
 
-Dataknob
-s
+Dataknobs
 
 Data Sources - AI for Security
 1.
@@ -63,8 +60,7 @@ Malware samples: Identify malware features.
 Vulnerability data: Identify security vulnerabilities and prioritize.
 Threat intelligence: Track emerging threats and identify potential risks
 
-Dataknob
-s
+Dataknobs
 
 Bots - AI for Security
 1. Incident response: Once incident occurs, notify stakeholders and answer
@@ -74,16 +70,14 @@ evolving threats and answer mitigation question.
 4. Threat intelligence: Read vulnerability reports,
 5. Vulnerability scanning: Scan network, Scan system of vulnerabilities.
 
-Dataknob
-s
+Dataknobs
 
 Tools - AI for Security
 1. IBM Security QRadar with Watson: Automate task related to security
 2. Palo Alto Networks Cortext XDR: Identify threats
 3. Cisco SecureX with Watson: AI to identify and respond to threats
 
-Dataknob
-s
+Dataknobs
 
 Generative AI in Cyber security - Examples
 1.
@@ -96,16 +90,14 @@ Darktrace: uses generative AI to detect and respond to cyber threats in real tim
 Google Cloud's Chronicle: This platform uses generative AI to analyze security logs and data to identify potential
 threats.
 
-Dataknob
-s
+Dataknobs
 
 Security ProgRAM - E2E
 ● Prevention
 ● Detection
 ● Response
 
-Dataknob
-s
+Dataknobs
 
 Security ProgRAM - E2E Landscape
 Area
@@ -115,31 +107,26 @@ Email
 IoT
 Ransomware prevention
 
-Dataknob
-s
+Dataknobs
 
 As companies move their workload to cloud, they need ability to move
 their corporate network into cloud.
 They need integration with Active Directory, Google Workspace
 
-Dataknob
-s
+Dataknobs
 
 Monitoring of Network
 Ingest and Analyze Networking & Endpoint Logs
 
-Dataknob
-s
+Dataknobs
 
 Security and compliance Assessment
 Do security and compliant assessment
 Identify areas to strengthen
 Determine which policy template to apply to accelerate
 
-Dataknob
-s
+Dataknobs
 
-Dataknob
-s
+Dataknobs
 
 

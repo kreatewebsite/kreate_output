@@ -1,6 +1,7 @@
 LLM 101
-Large Language
-Model
+Large Language Model
+
+Dataknobs
 
 Large Language Model
 A large language model (LLM) is a type of artificial intelligence (AI) that is trained on a massive dataset of

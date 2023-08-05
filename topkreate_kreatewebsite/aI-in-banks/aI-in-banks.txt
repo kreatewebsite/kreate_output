@@ -1,7 +1,6 @@
 AI in Banks
 
-Dataknob
-s
+Dataknobs
 
 AI Use Cases in Banks
 ●
@@ -28,8 +27,7 @@ Earnings call analysis generation
 Audit improvement
 Portfolio Planning and management
 
-Dataknob
-s
+Dataknobs
 
 AI for building dataset
 ●
@@ -42,8 +40,7 @@ Augment dataset and build gold dataset
 Transform dataset from one form to other
 Create synthetic dataset
 
-Dataknob
-s
+Dataknobs
 
 Gen AI Use Cases in Banks
 ●
@@ -56,8 +53,7 @@ Augmentation of dataset for AI
 Analysis generation from document e.g. Earning call analysis generation
 NLP to Report generation (NLP to SQL generation)
 
-Dataknob
-s
+Dataknobs
 
 AI Investment Areas
 ●
@@ -75,7 +71,6 @@ Use AI For Scenario Analysis Under Specific Condition
 Which Common Non Financial Asset Can Be Tapped
 
 AI and generative AI has the potential to revolutionize the investment industry by automating tasks, improving decisionmaking, and reducing risk
-Dataknob
-s
+Dataknobs
 
 

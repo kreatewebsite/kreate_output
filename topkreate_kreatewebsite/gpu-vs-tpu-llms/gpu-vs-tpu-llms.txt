@@ -1,7 +1,6 @@
 GPU
 
-Dataknob
-s
+Dataknobs
 
 GPU and TPU
 GPUs (Graphics Processing Units) and TPUs (Tensor Processing Units) are both specialized processors that can be used
@@ -15,8 +14,7 @@ TPUs are specifically designed for machine learning tasks. They have a more stre
 makes them more efficient at performing matrix multiplication and other tensor operations. This makes them well-suited for
 tasks such as training and inference of neural networks.
 
-Dataknob
-s
+Dataknobs
 
 Large Language Models and GPU/TPU
 Machine Learning workload especially large language model, generative AI require
@@ -25,8 +23,7 @@ GPU or TPU
 ● Inference
 ● Development
 
-Dataknob
-s
+Dataknobs
 
 GPUs for LLM Inference
 Here are a few factors to consider when determining how much GPU you need for inference on a large language model:
@@ -46,8 +43,7 @@ So in summary, for large models you'll generally want a high-memory (16GB+), mod
 Quadro RTX. Using multiple GPUs, batching, and framework optimizations can further improve performance. The optimal
 setup depends on your specific model and use case. Start with benchmarks on available hardware and scale up accordingly.
 
-Dataknob
-s
+Dataknobs
 
 GPU for LLMs Fine tuning
 Training large language models (LLMs) requires significantly more GPU resources compared to inference. Here are some key
@@ -68,8 +64,7 @@ help.
 In summary, training LLMs requires multiple high-end GPUs. For example, Anthropic used 128 Nvidia A100 GPUs (each with
 40GB+ memory) to train Claude. With smaller models and optimizations, you may be able to train on less GPUs, but expect to
 need at minimum 4-8 GPUs with at least 32GB memory each for decent training times
-Dataknob
-s
+Dataknobs
 
 AWS NVIDIA GPU
 Amazon EC2 P3 - 8 GPU, Tesla V100
@@ -78,16 +73,14 @@ Amazon EC2 G3 - 4 GPU, M60
 Amazon EC2 G4 - 4 GPU, T4
 Amazon EC2 G5 - 8 GPU, A10G
 
-Dataknob
-s
+Dataknobs
 
 AWS GPU Powered Services
 Amazon SageMaker
 AWS Elastic Graphic Service
 AWS DeepRacer - Use RL
 
-Dataknob
-s
+Dataknobs
 
 Azure NVIDIA GPU
 NV Series VM - Tesla M60
@@ -95,40 +88,35 @@ NVv3 Series - T4 GPU
 NCasT4_v3-series - A10 Tesnor
 NVadsA10 v5Series - AMD Radeon PRO V620, AMD EPYC 7763
 
-Dataknob
-s
+Dataknobs
 
 Azure Nvidia GPU accelerate service
 Azure Machine Learning
 Azure Data Bricks
 Azure Streaming Analytics
 
-Dataknob
-s
+Dataknobs
 
 GCP NVIDIA GPU
 N1 Standard NV - Tesla K80 GPU
 A2 Standard NV - A100 Tensor Core GPU
 G2-standard-NV - T4 GPU
 
-Dataknob
-s
+Dataknobs
 
 Snowflake LLM container Service
 Snowflake’s Snowpark Container Service (SCS) offers the ability to containerize LLMs; through
 Snowpark, Snowflake will offer Nvidia’s GPUs and NeMO, Nvidia’s “end-to-end, cloud native
 enterprise framework to build, customize, and deploy generative AI models.
 
-Dataknob
-s
+Dataknobs
 
 Google Colab GPU
 Tesla K80 - Free with Colab. It has 12GB memory and 2496 CUDA Cores
 Tesla T4 - Paid Colab. 16 GB of memory and 2560 CUDA cores\
 Tesla V100 GPU - 32 GB of memory, 5120 cores
 
-Dataknob
-s
+Dataknobs
 
 GPU vs TPU
 GPUs:
@@ -153,8 +141,7 @@ language models
 GPUs currently have some maximum performance benefits, TPUs are far superior for
 high-throughput low-precision computation and also have advantages for extremely
 large scale.
-Dataknob
-s
+Dataknobs
 
 GPU vs TPU
 GPUs has Larger memory capacity:
@@ -176,8 +163,7 @@ across thousands of cores. Scaling GPUs to that
 size requires more complex model parallelism
 due to limitations of data parallelism.
 
-Dataknob
-s
+Dataknobs
 
 Software Stack
 Mature software stack: Frameworks like
@@ -185,8 +171,7 @@ TensorFlow, PyTorch and MXNet all have
 GPU support and provide tools to facilitate
 multi-GPU and distributed training.
 
-Dataknob
-s
+Dataknobs
 
 The software tooling to leverage TPUs,
 especially for non-TensorFlow frameworks,
