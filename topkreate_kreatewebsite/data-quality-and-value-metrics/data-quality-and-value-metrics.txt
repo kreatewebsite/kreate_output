@@ -1,0 +1,58 @@
+Information Quality and Value
+Measures
+
+01
+
+Quality: How close data is to
+
+Cost: What does it cost to
+
+reality
+
+acquire? What would it
+
+04
+
+cost if we lose
+
+Competitive value: What is potential
+
+Relevancy: How relevant this data
+02
+
+is for business process and decision
+making
+
+Measures
+
+value for customer ?
+
+05
+
+What is potential value for
+competitors?
+
+03
+
+Realized Value : How
+much value is realized
+
+Realized benefits: How much
+contribution data makes to
+company bottom line
+
+06
+
+Measure Impact of Data Quality
+Consider Data Product (Data-as-Prdouct)
+● Data Products facilitates end goals thru use of data.
+● Fundamentally - bring product thinking to data. Focus on how same data
+is used in multiple use cases.
+
+Determine all stakeholders of Data-product
+● Determine impact on stakeholders
+● Determine how many additional stakeholders will gain benefit by
+improving quality
+● Combine this to quantify impact
+
+

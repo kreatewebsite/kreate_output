@@ -1,0 +1,38 @@
+Heterogeneous
+Treatment Effect
+A/B Experiment
+
+Potential Outcome vs Experiment Outcome
+Potential outcome is hypothetical
+In real world (field experiment or a/b testing)
+➔ Control outcome for control group
+➔ Treatment outcome for treatment group
+
+In real world you can only measure treatment outcome or control
+outcome for a given user
+
+Example Experiment
+Treatment
+
+Change the shipping price on e-commerce item
+(e.g. EBay)
+
+Users
+
+Randomly divided in control and treatment
+They are shown high price and low price shipping
+
+Metric
+
+Items bought, profit
+
+Note: There is Heterogeneous treatment effect
+
+HTE - Heterogeneous Treatment Effect
+HTE is when same treatment have different effect on different
+subjects
+Example Customer may be sensitive to higher shipping cost ($2
+vs $3 on low value items). But for high value item they
+may not bother
+
+

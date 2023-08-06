@@ -1,0 +1,14 @@
+Project Plan and Execution
+How to do project planning for generative AI?
+1. Which tech capabilities are required to implement generative AI
+2. What skill set PMs and leaders should have to manage generative AI projects
+3. How to estimate cost of building generative AI project?
+4. What are building blocks enterprise focus on to use generative AI across enterprise
+5. How to estimate cost of infra, cloud spend for running generative AI
+6. How to build project plan, timeline and resource plan
+7. How to evaluate generative AI project
+Learn how to lead and manage generative AI projects
+
+Dataknobs
+
+
