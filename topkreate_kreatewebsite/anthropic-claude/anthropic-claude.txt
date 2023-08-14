@@ -1,17 +1,0 @@
-Anthropic Claude and 100K tokens
-Claude +
-
-Context window of 1024 token. Good for generic writing
-
-Claude-instant
-
-Faster inference. Has 75 of parameters of Claude+
-Use knowledge distillation approach to add efficiency in inference
-
-Claude-instant
-100K
-
-Context window of 100K token .
-Use knowledge distillation approach to add efficiency in inference
-
-
