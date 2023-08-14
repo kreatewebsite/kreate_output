@@ -1,0 +1,38 @@
+Approaches to
+Handle Class
+Imbalance
+Prashant K Dhingra
+
+Dataknobs
+
+Handle Class Imbalance
+Handle class imbalance
+
+Sampling methods
+
+Data pre processing
+methods
+
+Custom Learning
+
+Prediction pre
+processing
+
+Over sampling
+& Under sampling
+
+Active Learning
+
+Metrics,
+Learning for special
+cost and loss
+function
+
+Threshold based
+
+Weak supervision &
+synthetic data
+
+Dataknobs
+
+

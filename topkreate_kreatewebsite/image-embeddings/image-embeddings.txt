@@ -1,0 +1,30 @@
+Image
+Embeddings
+Dataknobs
+
+Dataknobs
+
+Create Image Embeddings
+Some of the use cases include:
+●
+
+●
+●
+●
+●
+
+Image classification: Image embeddings can be used to train machine learning models to classify images into
+different categories. For example, an image embedding could be used to train a model to classify images of dogs,
+cats, and cars.
+Image retrieval: Image embeddings can be used to retrieve similar images from a database. For example, an
+image embedding could be used to find all of the images of dogs in a database of millions of images.
+Image similarity: Image embeddings can be used to measure the similarity between two images. For example, an
+image embedding could be used to determine if two images are of the same object or not.
+Image editing: Image embeddings can be used to edit images. For example, an image embedding could be used to
+remove an object from an image or to change the color of an object in an image.
+Image generation: Image embeddings can be used to generate new images. For example, an image embedding
+could be used to generate a new image of a dog that is similar to a given image of a dog.
+
+Dataknobs
+
+

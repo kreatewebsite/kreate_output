@@ -1,0 +1,28 @@
+Data Product
+How future data product will be built?
+1. In data product output is data that can be used in multiple use cases
+2. Will generative AI replace data product or help in building data product?
+
+Dataknobs
+
+Product Development
+How future product will be built?
+1. Will user expect prompts to interact with products
+2. Will companies use large LLM or use fine tune version of LLM
+3. How pipelines will be built to bring data for fine tuning
+
+Dataknobs
+
+Project Plan and Execution
+How to do project planning for generative AI?
+1. Which tech capabilities are required to implement generative AI
+2. What are building blocks enterprise focus on to use generative AI across
+enterprise
+3. How to estimate cost of building generative AI project?
+4. How to estimate cost of infra, cloud spend for running generative AI
+5. How to build project plan, timeline
+6. How to evaluate generative AI project
+
+Dataknobs
+
+

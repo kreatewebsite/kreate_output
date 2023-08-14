@@ -1,0 +1,205 @@
+LLM 101
+Large Language Model
+
+Dataknobs
+
+Large Language Model
+A large language model (LLM) is a type of artificial intelligence (AI) that is trained on a massive dataset of
+text and code. This allows the model to learn the statistical relationships between words and phrases,
+which in turn allows it to generate text, translate languages, write different kinds of creative content, and
+answer your questions in an informative way.
+Here are common LLMs
+●
+●
+●
+●
+
+GPT3.5 and GPT4
+Bard
+LLama, Llama 2 - 65 B parameters
+BERT Large by Hugging Face - 340M parameters
+
+Applications of LLM
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Chatbots
+Translation
+Text Summarization
+Text Generation/Content Writing
+NLP related tasks
+Data Analysis
+Code generation
+Automation and workflow building
+CSS generation
+
+LLMs - Open Source vs Closed Model
+●
+
+Open-source models are made available to the public for free. The underlying code and often the
+trained models can be accessed, used, and modified under the terms of their respective open-source
+licenses. Examples include earlier models like GPT-2 by OpenAI.
+a. LLama
+b. Hugging Face
+
+●
+
+Closed models, on the other hand, are proprietary and usually not freely accessible to the public.
+Access to these models may be restricted, with use often tied to a paid service. An example of this is
+GPT-3, which, while not completely closed (the research paper and some model details are available),
+is only accessible through a paid API provided by OpenAI.
+a. GPT3.5, GPT 4
+b. Bard
+
+LLM Building Blocks
+● Data: LLMs are trained on massive datasets of text and code. The quality and size of the dataset can have a significant
+impact on the performance of an LLM.
+● Architecture: The architecture of an LLM refers to the way that it is designed. Different architectures have different
+strengths and weaknesses.
+● Training: LLMs are trained using a process called supervised learning. This involves feeding the LLM a large dataset of
+text and code, along with the correct output for each input.
+● Inference: Inference is the process of using an LLM to generate output. This involves providing the LLM with a prompt and
+then using the LLM's knowledge of language to generate the desired output.
+
+Above topics are of interest to model builder. For Model consumer one of most important factor is
+● Model parameter:It is the total number of variables that the model needs to learn in order to generate text, translate
+languages, and answer questions.
+a.
+b.
+c.
+
+LLAMA - 65B parameters
+GPT 3 - 175B parameters
+GPT4 - 100 Trillion parameters
+
+LLM Steerability
+Steerability - LLM steerability means controlling or changing LLM responses by
+giving it a persona or personality. Example - assume you are expert in this field and
+talking to other expert.
+
+Multimodel
+Multimodal means a model can process various forms of data e.g. text and images.
+
+GPT-4 is a multimodal model, which means it can process both text and image data. For instance, it can accept an
+image as part of a prompt and provide an appropriate textual response.
+
+A Multimodel can accept images of vegetables as input and write recipe to cook these vagitables
+
+Note: ChatGPT is not a Multimodel
+
+LLM Modeling Architecture
+1. RNN
+2. LSTM
+3. Transformers
+4. GPT - Generative Pre trained Transformers
+
+Prompt vs Token
+●
+●
+
+●
+
+Prompt: A prompt is a short piece of text that is used to guide an LLM to generate a specific output. For example, the
+prompt "Write a article about road trip to hana" would guide an LLM to generate a text about road trip.
+Prompt engineering: Prompt engineering is the process of designing and using prompts to improve the performance
+of an LLM. This can involve using different types of prompts, such as
+a. open-ended prompts,
+b. closed-ended prompts,
+c. and adversarial prompts.
+Token: A token is a unit of text that is used to represent a word, phrase, or other piece of text. LLMs are trained on
+massive datasets of tokens, which allows them to learn the meaning of words and phrases.
+
+LLM - How to estimate inference cost
+
+Input query
+
+25 words
+
+Output response 1
+
+300 words
+
+Output response 2.
+
+# of times
+Example - 625 word
+Example - 750 tokens
+
+Example price
+
+.02/1000 token
+.02*750/1000 =.015 per
+query
+
+LLM Bot Process architecture
+
+Process input
+
+Is answer
+available?
+
+Process
+answer &
+refine
+
+Preprocess
+Check for facts,
+hallunication
+
+Chatgpt
+
+embeddings
+
+LLM Bot component architecture
+query
+Process Query
+
+Langchain
+
+Chatgpt/OpenAI
+
+User
+
+Respond
+
+Process response
+
+Guard rails
+
+Logging
+
+Built upfront
+Process Data
+
+Front end
+
+Create embeddings
+
+Middle Tier
+
+Back end
+
+Vector DB
+
+External API
+
+Related topic
+Vector DBs
+Technologies are broadly used to orchestrate working with multiple LLM
+challenges in scaling orchestration layer when deploying to PROD
+
+Build vs Buy Question
+Formulate the evaluation process.
+Agree key considerations in selecting a LLM provider.
+Make a decision proprietary model vs an open source model
+
+Appendix
+
+

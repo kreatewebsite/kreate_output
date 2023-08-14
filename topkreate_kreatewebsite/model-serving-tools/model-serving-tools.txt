@@ -1,0 +1,43 @@
+Model Serving
+Tools
+Generative AI
+
+Dataknobs
+
+Tools for Model Serving
+1.TensorFlow Serving: TensorFlow Serving is a flexible serving system specifically designed for
+serving TensorFlow models in production. It provides a high-performance, scalable, and easy-touse interface for serving trained TensorFlow models over various protocols (e.g., gRPC, RESTful
+API).
+2.PyTorch Serving: PyTorch Serving (previously known as TorchServe) is a model serving library for
+PyTorch models. It allows you to deploy and serve PyTorch models in a production environment
+with features like model versioning, multi-model serving, and RESTful API support.
+3.ONNX Runtime: ONNX Runtime is an open-source, high-performance inference engine that
+supports the Open Neural Network Exchange (ONNX) format. It provides optimized execution for
+models trained with popular frameworks like PyTorch, TensorFlow, and others.
+4.NVIDIA Triton Inference Server: Triton Inference Server is an open-source serving platform
+developed by NVIDIA. It supports serving models trained with various frameworks, including
+TensorFlow, PyTorch, and ONNX. Triton provides high-performance GPU inference, model
+versioning, dynamic batching, and integration with Kubernetes for scalable deployments.
+Dataknobs
+
+Tools for model serving
+1.
+
+2.
+
+3.
+
+OpenVINO: OpenVINO (Open Visual Inference and Neural Network Optimization) is a toolkit from Intel for
+optimizing and deploying deep learning models across Intel hardware architectures. It provides optimized
+inference for models trained with popular frameworks like TensorFlow and PyTorch, and it supports deployment
+on CPUs, GPUs, and Intel's specialized accelerators.
+TensorFlow Lite: TensorFlow Lite is a lightweight framework specifically designed for deploying models on
+mobile and edge devices. It enables efficient inference on resource-constrained platforms and provides support
+for on-device machine learning.
+Core ML: Core ML is Apple's framework for deploying machine learning models on iOS, macOS, watchOS, and
+tvOS devices. It allows you to convert trained models from popular frameworks like TensorFlow, PyTorch, and
+ONNX into a format optimized for running on Apple devices.
+
+Dataknobs
+
+

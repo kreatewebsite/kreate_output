@@ -1,0 +1,52 @@
+Knobs to
+Create Data
+KREATE
+
+Dataknobs
+
+Create Datasets
+●
+●
+●
+●
+
+Generate data to handle cold start problem
+Maintain data privacy
+Generate effective data to learn optimal policy
+Produce data that is similar to real world events
+
+Knobs : Use knobs to define properties of data and create dataset as per your
+specification
+Dataknobs
+
+Type of Datasets
+●
+●
+●
+●
+
+Text dataset
+Image datasets
+Structured datasets
+Time series datasets
+
+Knobs : Use knobs to define properties of data e.g. sparsity, density, distribution
+Dataknobs
+
+Methods to Build Datasets
+●
+●
+●
+●
+●
+
+Build datasets based on statistical properties
+Build datasets using generative models
+Build datasets using weak supervision
+Build labels on existing datasets
+Use dataset in one domain to convert in other domain
+
+Knobs : Use knobs to define how datasets are generated & augmented.
+Dataknobs
+
+
